@@ -1,0 +1,34 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Danielle Lancashire",
+	"icon": "https://micro.blog/daniellefyi/avatar.jpg",
+	"home_page_url": "https://micro.danielle.fyi/",
+	"feed_url": "https://micro.danielle.fyi/feed.json",
+	"items": [
+		
+			{
+				"id": "http://daniellefyi.micro.blog/2023/07/07/i-find-it.html",
+				
+				"content_html": "<p>I find it hard to photograph Berlin, so finding quiet spaces is always appreciated.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I find it hard to photograph Berlin, so finding quiet spaces is always appreciated.\n\n<img src=\"uploads/2023/l1001394.jpg\" width=\"480\" height=\"600\" alt=\"A black and white photograph of an angled window. The primary window runs at an angle from the top right to the bottom left of the frame. The windows are scratched and dirty. Their are many reflections of people walking, other buildings and benches. The window to the left that acts as a roof has patterns caused by the falling of light through trees. It invokes a slightly uncomfortable feeling through the grunginess.\">\n",
+				"date_published": "2023-07-07T20:55:38+02:00",
+				"url": "https://micro.danielle.fyi/2023/07/07/i-find-it.html"
+			},
+			{
+				"id": "http://daniellefyi.micro.blog/2023/07/02/nichtmituns-in-times.html",
+				
+				"content_html": "<p>#NichtMitUns\nIn times like these it feels like a moral imperative to protest against those who take their marginal plurality and use it to fuel their attempts at a culture war.</p>\n<p>The CDU and their SPD collaborators want to scrap bike lanes and build a highway through the city - we say no.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#NichtMitUns\nIn times like these it feels like a moral imperative to protest against those who take their marginal plurality and use it to fuel their attempts at a culture war.\n\nThe CDU and their SPD collaborators want to scrap bike lanes and build a highway through the city - we say no.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"398\" alt=\"A snapshot of a bike protest, the focal point is a sign that reads “Verkehrswende Jetzt”\">\n",
+				"date_published": "2023-07-02T18:18:30+02:00",
+				"url": "https://micro.danielle.fyi/2023/07/02/nichtmituns-in-times.html"
+			},
+			{
+				"id": "http://daniellefyi.micro.blog/2023/06/30/sometimes-a-hike.html",
+				"title": "Sometimes a hike isn't what you'd expect.",
+				"content_html": "<!-- raw HTML omitted -->\n<p>This recent trip to Brocken/Harz National Park was definitely one of those where the joy was drained out of you. They kill many of the lower trees and just&hellip; leave them to rot&hellip; to &ldquo;protect&rdquo; nearby commercial forests from bugs - and this is the result 😔.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2023/l1001242-2.jpg\" width=\"600\" height=\"480\" alt=\"A rocky trail lined with dead and bare trees. The photo is black and white. It leaves a feeling of sad melancholy. As you look closer you see cairns built from loose rocks on dead stumps and stripped bark.\">\n\nThis recent trip to Brocken/Harz National Park was definitely one of those where the joy was drained out of you. They kill many of the lower trees and just... leave them to rot... to \"protect\" nearby commercial forests from bugs - and this is the result 😔.\n\n<img src=\"uploads/2023/l1001241.jpg\" width=\"300\" height=\"375\" alt=\"A tight shot of dead trees, some still standing, some fallen. In the distance you can see some new-growth trees with a little life to them.\">\n\n<img src=\"uploads/2023/l1001240.jpg\" width=\"300\" height=\"375\" alt=\"A rocky trail lined with dead and bare trees. The photo is black and white. It's hard to believe it was taken in the middle of summer, as even the standing trees are bare.\">\n",
+				"date_published": "2023-06-30T15:36:28+02:00",
+				"url": "https://micro.danielle.fyi/2023/06/30/sometimes-a-hike.html"
+			}
+	]
+}
