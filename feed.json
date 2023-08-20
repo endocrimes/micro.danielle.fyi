@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://daniellefyi.micro.blog/2023/08/20/i-love-visiting.html",
+				
+				"content_html": "<p>I love visiting zoos when traveling - today is London Zoo, where the Lemurs were being incredibly friendly 😅</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love visiting zoos when traveling - today is London Zoo, where the Lemurs were being incredibly friendly 😅\n\n<img src=\"uploads/2023/b9941edfec.jpg\" width=\"600\" height=\"479\" alt=\"A close up shot of a lemur on a wall. The lemur is looking off to the right of the frame at a 30ish degree angle so you can just see both eyes.\">\n",
+				"date_published": "2023-08-20T16:25:38+02:00",
+				"url": "https://micro.danielle.fyi/2023/08/20/i-love-visiting.html"
+			},
+			{
 				"id": "http://daniellefyi.micro.blog/2023/07/07/i-find-it.html",
 				
 				"content_html": "<p>I find it hard to photograph Berlin, so finding quiet spaces is always appreciated.</p>\n<!-- raw HTML omitted -->\n",
