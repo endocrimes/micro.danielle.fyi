@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://daniellefyi.micro.blog/2024/04/11/moody-friend.html",
+				
+				"content_html": "<p>📷 Moody Friend.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Moody Friend.\n\n<img src=\"uploads/2024/321fc96b10.jpg\" width=\"600\" height=\"480\" alt=\"A crow perched on the Millennium Bridge, looking over a London Skyline under dramatic cloudy skies.\">\n",
+				"date_published": "2024-04-11T12:48:42+01:00",
+				"url": "https://micro.danielle.fyi/2024/04/11/moody-friend.html"
+			},
+			{
 				"id": "http://daniellefyi.micro.blog/2024/01/29/the-term-content.html",
 				
 				"content_html": "<p>The term &ldquo;Content Creator&rdquo; really needs to die before AI finishes killing the arts - people devaluing themselves and their work by reducing it to &ldquo;content&rdquo; to be mindlessly consumed is what lets arbitrarily generated mediocrity win 😭</p>\n",
