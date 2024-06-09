@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://daniellefyi.micro.blog/2024/06/09/yesterday-i-got.html",
+				
+				"content_html": "<p>Yesterday I got to watch some glassblowing up close and it was incredible (and I’ve now booked an introductory class 🙈) 📸</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Yesterday I got to watch some glassblowing up close and it was incredible (and I’ve now booked an introductory class 🙈) 📸\n\n<img src=\"uploads/2024/9be8cf8916.jpg\" width=\"600\" height=\"600\" alt=\"A man shaping a glass vase\"><img src=\"uploads/2024/7edcc55e4f.jpg\" width=\"480\" height=\"600\" alt=\"A man spinning out a glass vase\">\n",
+				"date_published": "2024-06-09T21:00:14+02:00",
+				"url": "https://micro.danielle.fyi/2024/06/09/yesterday-i-got.html"
+			},
+			{
 				"id": "http://daniellefyi.micro.blog/2024/05/13/we-didnt-get.html",
 				
 				"content_html": "<p>We didn&rsquo;t get to see the aurora at its peak on Friday bc of the clouds (and I was too sick to go far enough to escape them), but we got to briefly see the aurora on Saturday &lt;3 📸</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://daniellefyi.micro.blog/2024/01/18/i-do-love.html",
 				
 				"content_html": "<p>I do love to make unexpected friends on winter walks ❄️🐿️📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I do love to make unexpected friends on winter walks ❄️🐿️📷\n\n<img src=\"uploads/2024/fd5e0de59d.jpg\" width=\"480\" height=\"600\" alt=\"Framed between two tree trunks is a snow topped birdhouse topped with snow. In the birdhouse is a squirrel munching on a nut.\">\n",
+				"content_text": "I do love to make unexpected friends on winter walks ❄️🐿️📷\n\n<img src=\"https://cdn.uploads.micro.blog/113863/2024/fd5e0de59d.jpg\" width=\"480\" height=\"600\" alt=\"Framed between two tree trunks is a snow topped birdhouse topped with snow. In the birdhouse is a squirrel munching on a nut.\">\n",
 				"date_published": "2024-01-18T21:20:28+02:00",
 				"url": "https://micro.danielle.fyi/2024/01/18/i-do-love.html"
 			},
