@@ -7,27 +7,59 @@
 	"items": [
 		
 			{
+				"id": "http://daniellefyi.micro.blog/2024/10/23/i-learnt-to.html",
+				
+				"content_html": "<p>I learnt to make glass pumpkins today! 🎃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I learnt to make glass pumpkins today! 🎃\n\n<img src=\"uploads/2024/10aec569fd.jpg\" width=\"450\" height=\"600\" alt=\"The inside of a glass annealer, the object of interest is the middle pumpkin\">\n",
+				"date_published": "2024-10-23T21:26:36+02:00",
+				"url": "https://micro.danielle.fyi/2024/10/23/i-learnt-to.html"
+			},
+			{
+				"id": "http://daniellefyi.micro.blog/2024/10/21/im-spending-today.html",
+				
+				"content_html": "<p>I’m spending today migrating some things from plain old HTTP+JSON to grpc/connect-rpc and I forgot how much I kinda love grpc tooling when working with Go (and you keep a “good enough” JSON API with connect too)</p>\n",
+				"content_text": "I’m spending today migrating some things from plain old HTTP+JSON to grpc/connect-rpc and I forgot how much I kinda love grpc tooling when working with Go (and you keep a “good enough” JSON API with connect too)\n",
+				"date_published": "2024-10-21T14:43:55+02:00",
+				"url": "https://micro.danielle.fyi/2024/10/21/im-spending-today.html"
+			},
+			{
+				"id": "http://daniellefyi.micro.blog/2024/10/20/my-home-devscan.html",
+				
+				"content_html": "<p>My home dev+scan setup for color film seems to work 😅</p>\n<p>I’ve been avoiding shooting film this year after being unhappy with my “default” lab, so it’s nice that I can have the control that I want now.</p>\n<p>This isn’t a good photo, but hey! I pulled it out of the film soup! And it isn’t weird! 📷🎉</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My home dev+scan setup for color film seems to work 😅\n\nI’ve been avoiding shooting film this year after being unhappy with my “default” lab, so it’s nice that I can have the control that I want now.\n\nThis isn’t a good photo, but hey! I pulled it out of the film soup! And it isn’t weird! 📷🎉\n\n<img src=\"uploads/2024/760f62e0fa.jpg\" width=\"600\" height=\"592\" alt=\"A couple sat on a bank of golden leaves, a tree hangs above them with the last of its autumn hues. In front of them a large pond.\">\n",
+				"date_published": "2024-10-20T23:55:16+02:00",
+				"url": "https://micro.danielle.fyi/2024/10/20/my-home-devscan.html"
+			},
+			{
+				"id": "http://daniellefyi.micro.blog/2024/10/20/self-developing-color.html",
+				
+				"content_html": "<p>Self developing color film for the first time is highlighting a very annoying fact: Removing dust from color images is so much more work than from black and white (where it&rsquo;s easy in post). Spending a lot of time with a cloth and isopropanol right now 😭</p>\n",
+				"content_text": "Self developing color film for the first time is highlighting a very annoying fact: Removing dust from color images is so much more work than from black and white (where it's easy in post). Spending a lot of time with a cloth and isopropanol right now 😭\r\n",
+				"date_published": "2024-10-20T21:50:02+02:00",
+				"url": "https://micro.danielle.fyi/2024/10/20/self-developing-color.html"
+			},
+			{
 				"id": "http://daniellefyi.micro.blog/2024/10/20/upgraded-my-home.html",
 				
 				"content_html": "<p>Upgraded my home development setup, I no longer need to do manual inversions or temp compensation 😅</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Upgraded my home development setup, I no longer need to do manual inversions or temp compensation 😅\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://micro.danielle.fyi/uploads/2024/image.mov\" width=\"640\" height=\"1138\" poster=\"https://micro.danielle.fyi/uploads/2024/poster.png\" preload=\"none\"></video>\n",
-				"date_published": "2024-10-20T09:53:47-07:00",
+				"date_published": "2024-10-20T18:53:47+02:00",
 				"url": "https://micro.danielle.fyi/2024/10/20/upgraded-my-home.html"
 			},
 			{
 				"id": "http://daniellefyi.micro.blog/2024/06/23/im-a-sucker.html",
 				
 				"content_html": "<p>I&rsquo;m a sucker for a sunset, especially when you get a sky this pretty.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm a sucker for a sunset, especially when you get a sky this pretty.\n\n<img src=\"uploads/2024/6af912cabb.jpg\" width=\"600\" height=\"221\" alt=\"A sunset over Manhattan as seen from Williamsburg. The sky is awash with pastels. The city is full of lights on otherwise dark buildings.\">\n",
-				"date_published": "2024-06-23T13:54:22-07:00",
+				"content_text": "I'm a sucker for a sunset, especially when you get a sky this pretty.\n\n<img src=\"https://cdn.uploads.micro.blog/113863/2024/6af912cabb.jpg\" width=\"600\" height=\"221\" alt=\"A sunset over Manhattan as seen from Williamsburg. The sky is awash with pastels. The city is full of lights on otherwise dark buildings.\">\n",
+				"date_published": "2024-06-23T22:54:22+02:00",
 				"url": "https://micro.danielle.fyi/2024/06/23/im-a-sucker.html"
 			},
 			{
 				"id": "http://daniellefyi.micro.blog/2024/06/18/a-rare-self.html",
 				
 				"content_html": "<p>A rare self portrait</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A rare self portrait\n\n<img src=\"uploads/2024/8b85035bb2.jpg\" width=\"600\" height=\"600\" alt=\"A yellow brick wall is adorned with a small dirty mirror and above it sits a bright tube light. In the mirror you can see a girl in a yellow shirt taking a photo directly into the mirror.\">\n",
-				"date_published": "2024-06-18T10:45:47-07:00",
+				"content_text": "A rare self portrait\n\n<img src=\"https://cdn.uploads.micro.blog/113863/2024/8b85035bb2.jpg\" width=\"600\" height=\"600\" alt=\"A yellow brick wall is adorned with a small dirty mirror and above it sits a bright tube light. In the mirror you can see a girl in a yellow shirt taking a photo directly into the mirror.\">\n",
+				"date_published": "2024-06-18T19:45:47+02:00",
 				"url": "https://micro.danielle.fyi/2024/06/18/a-rare-self.html"
 			},
 			{
