@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://daniellefyi.micro.blog/2024/12/14/like-all-things.html",
+				
+				"content_html": "<p>Like all things glass, I kinda liked where this was going - so naturally it cracked as I was getting ready to anneal it 😂😭</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Like all things glass, I kinda liked where this was going - so naturally it cracked as I was getting ready to anneal it 😂😭\n\n<img src=\"uploads/2024/5340409cd9.jpg\" width=\"450\" height=\"600\" alt=\"A very cartoon looking frog made of glass on the end of a clear punty.\">\n",
+				"date_published": "2024-12-14T18:59:39+01:00",
+				"url": "https://micro.danielle.fyi/2024/12/14/like-all-things.html"
+			},
+			{
 				"id": "http://daniellefyi.micro.blog/2024/11/23/its-my-birthday.html",
 				
 				"content_html": "<p>It’s my birthday tomorrow and I got myself the stupidest present and I love it (Leica iiia from 1937, I’m its second owner in that time)</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://daniellefyi.micro.blog/2024/10/23/i-learnt-to.html",
 				
 				"content_html": "<p>I learnt to make glass pumpkins today! 🎃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I learnt to make glass pumpkins today! 🎃\n\n<img src=\"uploads/2024/10aec569fd.jpg\" width=\"450\" height=\"600\" alt=\"The inside of a glass annealer, the object of interest is the middle pumpkin\">\n",
+				"content_text": "I learnt to make glass pumpkins today! 🎃\n\n<img src=\"https://cdn.uploads.micro.blog/113863/2024/10aec569fd.jpg\" width=\"450\" height=\"600\" alt=\"The inside of a glass annealer, the object of interest is the middle pumpkin\">\n",
 				"date_published": "2024-10-23T20:26:36+01:00",
 				"url": "https://micro.danielle.fyi/2024/10/23/i-learnt-to.html"
 			},
