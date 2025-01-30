@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://daniellefyi.micro.blog/2025/01/30/dont-talk-to-me-or.html",
+				
+				"content_html": "<p>“Don’t talk to me or my son ever again”</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "“Don’t talk to me or my son ever again”\n\n<img src=\"uploads/2025/1ef95e1241.jpg\" width=\"450\" height=\"600\" alt=\"Two glass ducks, one smaller than the other, sat on someone’s fingertips, there is a plant in the background.\">\n",
+				"date_published": "2025-01-30T01:22:56+01:00",
+				"url": "https://micro.danielle.fyi/2025/01/30/dont-talk-to-me-or.html"
+			},
+			{
 				"id": "http://daniellefyi.micro.blog/2025/01/01/how-it-started-vs-how.html",
 				
 				"content_html": "<p>How it started vs how it&rsquo;s going, glassblowing edition.</p>\n<p>One of the first cups I made a few months ago vs the last (and first twisty) cup I made in December.</p>\n<p>Excited to keep learning 😅</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://daniellefyi.micro.blog/2024/10/25/it-lost-its.html",
 				
 				"content_html": "<p>It lost its body ridges bc I got it too hot, but hey… ugly pumpkin!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It lost its body ridges bc I got it too hot, but hey… ugly pumpkin!\n\n<img src=\"uploads/2024/5ea36d8904.jpg\" width=\"600\" height=\"600\" alt=\"A purple glass pumpkin sat on a piece of wood. Yellow leaves are in the background.\">\n",
+				"content_text": "It lost its body ridges bc I got it too hot, but hey… ugly pumpkin!\n\n<img src=\"https://cdn.uploads.micro.blog/113863/2024/5ea36d8904.jpg\" width=\"600\" height=\"600\" alt=\"A purple glass pumpkin sat on a piece of wood. Yellow leaves are in the background.\">\n",
 				"date_published": "2024-10-25T12:47:44+01:00",
 				"url": "https://micro.danielle.fyi/2024/10/25/it-lost-its.html"
 			},
