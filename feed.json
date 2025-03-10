@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://daniellefyi.micro.blog/2025/03/10/i-love-picking-things-up.html",
+				
+				"content_html": "<p>I love picking things up from the flameworking studio 😅</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I love picking things up from the flameworking studio 😅\n\n<img src=\"uploads/2025/9c0179f48c.jpg\" width=\"450\" height=\"600\" alt=\"A funky little guy - a multi colored blob of glass, with eyes and a derpy smile\"><img src=\"uploads/2025/bc357fd680.jpg\" width=\"450\" height=\"600\" alt=\"A pendant with purple and teal leaves inside \"><img src=\"uploads/2025/9b6cc7dbf8.jpg\" width=\"450\" height=\"600\" alt=\"A slightly misshapen black tumbler next to the funky dude and pendant \">\n",
+				"date_published": "2025-03-10T17:59:45+01:00",
+				"url": "https://micro.danielle.fyi/2025/03/10/i-love-picking-things-up.html"
+			},
+			{
 				"id": "http://daniellefyi.micro.blog/2025/01/30/dont-talk-to-me-or.html",
 				
 				"content_html": "<p>“Don’t talk to me or my son ever again”</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://daniellefyi.micro.blog/2024/11/08/started-working-on.html",
 				
 				"content_html": "<p>Started working on a flameworking piece today. First up is a bunch of leaves, going autumnal 🍂</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Started working on a flameworking piece today. First up is a bunch of leaves, going autumnal 🍂\n\n<img src=\"uploads/2024/3149874ed8.jpg\" width=\"450\" height=\"600\" alt=\"Yellow and orange pointed glass leaves on a metal table and graphite marver\">\n",
+				"content_text": "Started working on a flameworking piece today. First up is a bunch of leaves, going autumnal 🍂\n\n<img src=\"https://cdn.uploads.micro.blog/113863/2024/3149874ed8.jpg\" width=\"450\" height=\"600\" alt=\"Yellow and orange pointed glass leaves on a metal table and graphite marver\">\n",
 				"date_published": "2024-11-08T21:32:09+01:00",
 				"url": "https://micro.danielle.fyi/2024/11/08/started-working-on.html"
 			},
